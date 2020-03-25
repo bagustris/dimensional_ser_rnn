@@ -1,4 +1,4 @@
-## XXX  
+## Dimensional_SER_RNN
 
 Repository for code and paper:
 
