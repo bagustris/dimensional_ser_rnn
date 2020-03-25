@@ -1,4 +1,3 @@
-# oCOCOSDA 2019: dimensional speech emotion recognition from acoustic feature and word embedding
 # to be run on Jupyter-lab
 
 import numpy as np
